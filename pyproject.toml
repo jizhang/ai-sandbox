@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ai-sandbox"
+version = "0.1.0"
+description = ""
+authors = ["Jerry <zhangji87@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+numpy = "^2.2.2"
+openai = "^1.60.1"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
