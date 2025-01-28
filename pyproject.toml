@@ -19,6 +19,9 @@ llama-index = "^0.12.14"
 spacy = "^3.8.4"
 langchain-openai = "^0.3.2"
 sentencepiece = "^0.2.0"
+tiktoken = "^0.8.0"
+backoff = "^2.2.1"
+pyarrow = "^19.0.0"
 
 [[tool.poetry.source]]          
 name = "aliyun"
