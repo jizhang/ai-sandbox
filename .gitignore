@@ -2,3 +2,6 @@ __pycache__/
 .env
 beauty/storage/
 beauty/milvus/
+
+# Mac
+.DS_Store
