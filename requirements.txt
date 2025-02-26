@@ -1,0 +1,6 @@
+numpy<2
+pandas
+langchain[openai]
+langchain-community
+pypdf
+jupyter
